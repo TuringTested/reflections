@@ -2,3 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 Creating a repository creates a relation between files in a directory such that the progress of any combination of the files within can be tracked without having to create multiple files representing each step in the development of the program.
 How can you use the staging area to make sure you have one commit per logical change?
 The staging area allows to you check the modifications you have just made to a file against the last commit, or the files in the staging area against the last commit, giving you an easy way to track changes you've made.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches are helpful when making experimental changes or alternate versions that you do not intend to alter the core funcitonality of the program.
