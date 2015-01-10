@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Creating a repository creates a relation between files in a directory such that the progress of any combination of the files within can be tracked without having to create multiple files representing each step in the development of the program.
