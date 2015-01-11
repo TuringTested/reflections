@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You would want ot make a separate branch when developing a new or experimental feature or alternate version. Changes that are central to the core project are best done in the master branch.
