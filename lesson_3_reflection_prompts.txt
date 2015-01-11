@@ -1,19 +1,17 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    You would use a remote repository when you want to be able to share files with and receive files from others,
-    allowing you to collaborate more efficiently.
+    You would use a remote repository when you want to be able to share files with and receive files from others, allowing you to collaborate more efficiently.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    You may not want to have all branches being developed by all collaborators
-    on your project in your repository to keep it less cluttered.
+    You may not want to have all branches being developed by all collaborators on your project in your repository to keep it less cluttered.
 
-Describe the differences between forks, clones, and branches.  When would you
+Describe the differences between forks, clones, and branches.  When would you 
 use one instead of another?
 
-    Fill in your answer here
+    Forking is essentially cloning between repositories on GitHub, whereas cloning copies a repository to your local directory. repository can split into different branches to allow one to work on an alternative version of the main project while continuing to work on the original model, and then possible merge the two versions eventually. One would fork when they want a copy of a repository from another user on GitHub to modify and submit to the original creator(s). One would clone when they want a that repository in their directory to modify, and one would branch when they begin working on a modification or alternate version of the project.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
